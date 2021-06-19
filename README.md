@@ -1,4 +1,5 @@
-![123123](https://user-images.githubusercontent.com/69227322/122658061-e24bf500-d136-11eb-9673-a7fbf0fa04b4.jpeg)
+<img width="1151" alt="1234" src="https://user-images.githubusercontent.com/69227322/122658083-1b846500-d137-11eb-9605-427b89d0f9f3.png">
+
 
 This is a Microsoft Teams clone built with React JS and Chat Engine!
 
